@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b13d5649-3cf4-4eb5-b8ab-de5f8cafcdb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1Vqz67Az93fVdmi81ypfODIjH7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.alora.demo.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alora.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alora.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.1" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#JAVA_HOME" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b13d5649-3cf4-4eb5-b8ab-de5f8cafcdb7" name="Default Changelist" comment="" />
+      <created>1577995234218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577995234218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577997705210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577997705210" />
+    <state x="581" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1577999267581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577999267581" />
+    <state x="506" y="199" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577998710640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="199" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1577998710640" />
+    <state x="405" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577998414235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1577998414235" />
+    <state x="573" y="278" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577998712402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="278" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577998712402" />
+    <state width="1170" height="268" key="GridCell.Tab.0.bottom" timestamp="1577999895629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1170" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577999895629" />
+    <state width="1170" height="268" key="GridCell.Tab.0.center" timestamp="1577999895629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1170" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577999895629" />
+    <state width="1170" height="268" key="GridCell.Tab.0.left" timestamp="1577999895629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1170" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577999895629" />
+    <state width="1170" height="268" key="GridCell.Tab.0.right" timestamp="1577999895629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1170" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577999895629" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1577998011771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577998011771" />
+    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577997832942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1577997832942" />
+  </component>
+</project>

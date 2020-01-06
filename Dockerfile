@@ -1,5 +1,5 @@
 FROM openjdk:8
-COPY . /usr/src/app
-WORKDIR /usr/src/app
-RUN javac Main.java
-CMD ["java", "Main"]
+COPY C:\Users\Alora\Git_Public\CoffeeDemo\demo\src\main
+WORKDIR C:\Users\Alora\Git_Public\CoffeeDemo\demo\src\main
+RUN javac DemoApplication.java
+CMD ["java", "DemoApplication"]

@@ -1,5 +1,4 @@
 FROM openjdk:8
-COPY C:\Users\Alora\Git_Public\CoffeeDemo\demo\src\main
-WORKDIR C:\Users\Alora\Git_Public\CoffeeDemo\demo\src\main
-RUN javac DemoApplication.java
-CMD ["java", "DemoApplication"]
+EXPOSE 8080
+ADD target/coffeeshop-docker.jar coffeeshop-docker
+ENTRYPOINT ["java", "-jar","/coffeeshop-docker.jar"]

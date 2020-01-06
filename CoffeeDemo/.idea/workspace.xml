@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13d5649-3cf4-4eb5-b8ab-de5f8cafcdb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rewards/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeRewards/CoffeeRewards.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CoffeeDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CoffeeDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +53,25 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4329897" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.alora.demo.service" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alora\Git_Public\CoffeeDemo\rewards\src\main" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RewardsApplication">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alora.demo.DemoApplication" />
       <module name="demo" />
@@ -71,6 +81,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewardsApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RewardsApplication" />
+      <module name="rewards" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,10 +176,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577997705210">
+    <state x="189" y="73" key="#Notifications" timestamp="1578346556155">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577997705210" />
+    <state x="189" y="73" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578346556155" />
+    <state x="189" y="73" width="1014" height="681" key="#Project_Structure" timestamp="1578346506587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="189" y="73" width="1014" height="681" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578346506587" />
+    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578347916057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="164" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578347916057" />
     <state x="581" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1577999267581">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -171,6 +196,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="506" y="199" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1577998710640" />
+    <state x="534" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578348404649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1578348404648" />
     <state x="405" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577998414235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -179,33 +208,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="278" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577998712402" />
-    <state width="1169" height="268" key="GridCell.Tab.0.bottom" timestamp="1578004999944">
+    <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1578348618704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1169" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578004999944" />
-    <state width="1169" height="268" key="GridCell.Tab.0.center" timestamp="1578004999944">
+    <state x="549" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578348618704" />
+    <state width="1134" height="254" key="GridCell.Tab.0.bottom" timestamp="1578347886983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1169" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578004999944" />
-    <state width="1169" height="268" key="GridCell.Tab.0.left" timestamp="1578004999944">
+    <state width="1134" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578347886983" />
+    <state width="1134" height="254" key="GridCell.Tab.0.center" timestamp="1578347886983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1169" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578004999944" />
-    <state width="1169" height="268" key="GridCell.Tab.0.right" timestamp="1578004999944">
+    <state width="1134" height="254" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578347886983" />
+    <state width="1134" height="254" key="GridCell.Tab.0.left" timestamp="1578347886983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1169" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578004999944" />
-    <state x="218" y="0" key="SettingsEditor" timestamp="1577998011771">
+    <state width="1134" height="254" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578347886983" />
+    <state width="1134" height="254" key="GridCell.Tab.0.right" timestamp="1578347886983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="218" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577998011771" />
-    <state x="471" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1578343154063">
+    <state width="1134" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578347886983" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1578345838486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="471" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578343154063" />
-    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577997832942">
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1578345838486" />
+    <state x="451" y="112" width="852" height="600" key="NewModule_or_Project.wizard" timestamp="1578348658128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1577997832942" />
+    <state x="451" y="112" width="852" height="600" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1578348658128" />
+    <state x="91" y="0" width="1165" height="824" key="SettingsEditor" timestamp="1578348391391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="91" y="0" width="1165" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578348391391" />
+    <state x="471" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1578345276647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578345276647" />
+    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578347824155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="291" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1578347824155" />
+    <state x="418" y="150" key="new project wizard" timestamp="1578346445006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="150" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578346445006" />
   </component>
 </project>
